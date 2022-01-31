@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 Estou estudando PHP, Javascript, css e Html
 <!--
 **LeonardoDr150/LeonardoDr150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
